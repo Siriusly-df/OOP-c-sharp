@@ -1,0 +1,18 @@
+=== Нова операція ===
+C# DOESN'T JUST AGE; IT MATURES WITH EVERY NEW VERSION.
+FROM LINQ TO RECORDS AND PATTERN MATCHING, IT KEEPS GETTING SHARPER.
+STAY CURIOUS, KEEP CODING, AND LET THE COMPILER DO THE HEAVY LIFTING.
+PD25
+
+=== Нова операція ===
+Символів: 55
+Символів: 68
+Символів: 69
+Символів: 4
+
+=== Нова операція ===
+Слів: 10
+Слів: 11
+Слів: 12
+Слів: 1
+
